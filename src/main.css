@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.main-heading {
+  @apply text-6xl uppercase font-thin leading-tight my-8 mx-auto max-w-xs sm:max-w-xs;
+}
+
+@tailwind utilities;
